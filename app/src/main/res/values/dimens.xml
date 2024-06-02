@@ -2,5 +2,7 @@
 <resources>
     <dimen name="icon_size">24dp</dimen>
     <dimen name="text_size">22sp</dimen>
-    <dimen name="settings_item_size">16sp</dimen>
+    <dimen name="settings_text_size">16sp</dimen>
+    <dimen name="menu_item_height">61dp</dimen>
+    <dimen name="corner_radius">16dp</dimen>
 </resources>
